@@ -41,7 +41,7 @@ To run the app on an Android device (or an emulator), you need to install the An
 	- `artistOfTheMonth` *(string)*: Spotify id for the user's artist of the month
 	- `mostPlayedTrack` *(string)*: Spotify id for the user's most played track
 	- `lastSavedTrack` *(string)*: Spotify id for the user's last saved track
-	artistOfTheMonth "1hCkSJcXREhrodeIHQdav8"
+	artistOfTheMonth
 	- `creationDate` *(number)*: timestamp for the user creation
 
 
